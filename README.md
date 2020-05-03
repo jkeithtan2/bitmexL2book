@@ -1,5 +1,6 @@
 ## Before running
 pip install -r requirements.txt
+
 ensure there is a 'MONGO_CONNECTION_STRING' 
 
 ## BitMex Websocket:
